@@ -1,16 +1,84 @@
+
 <!DOCTYPE html>
 <html>
-<body>
 
-<h2>Image Links</h2>
+<body background="https://www.pexels.com/photo/background-biker-clouds-daylight-207171/">
+<div align="center">
+  <div><h2>ICP 1 Introduction</h2>
+  </div>
+  <div align="center"><p>The image is a link</p></div>
+    <div align="center"> You can click on it.</p></div>
 
-<p>The image is a link. You can click on it.</p>
+<ul> Aspects Covered:<br>
+  <li>
 
-<a href="https://github.com/Kamaltejveerapaneni">
-  <img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;border:0">
-</a>
+    Images with links explaining repository creation in github
+  </li><br>
+  <li>
+    You tube video
+  </li><br>
+</ul>
 
-<p>We have added "border:0" to prevent IE9 (and earlier) from displaying a border around the image.</p>
+
+  <p>Images with links in an ordered manner</p>
+  <ol>
+  <li>In order to create a new repository go to the github account page and at the top right select New repository option
+    <a href="https://github.com/Kamaltejveerapaneni/Web-Cloud-Mobile/blob/master/ICP%201/Documentation/1.png">
+
+    <img src="https://raw.githubusercontent.com/Kamaltejveerapaneni/Web-Cloud-Mobile/master/ICP%201/Documentation/1.png" alt="Step1" width="1000" height="500">
+  </a><br></li>
+
+    <li>From there we will be directed to a repository page where we have to give a name to our repository
+      and description if available.
+
+
+      <a href="https://github.com/Kamaltejveerapaneni/Web-Cloud-Mobile/blob/master/ICP%201/Documentation/2.png">
+        <img src="https://raw.githubusercontent.com/Kamaltejveerapaneni/Web-Cloud-Mobile/master/ICP%201/Documentation/2.png" alt="Step 2" width="1000" height="500">
+      </a></li>
+    <br>
+
+    <br>
+    <li>
+      Then we can either select our repository to be either private or public and select radio box below(Initialize....)
+
+      Here i choose it to be public so any one with a link can view the repository.
+      Now after a repository is created remotely we have to Clone Gitrepository to your local storage
+    <a href="https://github.com/Kamaltejveerapaneni/Web-Cloud-Mobile/blob/master/ICP%201/Documentation/3.png">
+    <img src="https://raw.githubusercontent.com/Kamaltejveerapaneni/Web-Cloud-Mobile/master/ICP%201/Documentation/3.png" alt="Step 3" width="1000" height="500">
+    </a></li><br><br>
+    <li>Use Gitto add file into local,Modify files and use Gitto commit  change
+      <a href="https://github.com/Kamaltejveerapaneni/Web-Cloud-Mobile/blob/master/ICP%201/Documentation/3.1.PNG">
+        <img src="https://raw.githubusercontent.com/Kamaltejveerapaneni/Web-Cloud-Mobile/master/ICP%201/Documentation/3.1.PNG" alt="Step x" width="1000" height="500">
+      </a></li>
+
+    <br>
+
+    <li>Use Gitto push  the commit  to remote,Use Gitto pull (sync)  content with remote
+    <a href="https://github.com/Kamaltejveerapaneni/Web-Cloud-Mobile/blob/master/ICP%201/Documentation/4.png">
+    <img src="https://raw.githubusercontent.com/Kamaltejveerapaneni/Web-Cloud-Mobile/master/ICP%201/Documentation/4.png" alt="Step 4" width="1000" height="500">
+      </a></li>
+    <br><br>
+    <li>
+    <a href="https://github.com/Kamaltejveerapaneni/Web-Cloud-Mobile/blob/master/ICP%201/Documentation/5.png">
+    <img src="https://raw.githubusercontent.com/Kamaltejveerapaneni/Web-Cloud-Mobile/master/ICP%201/Documentation/5.png" alt="Step 5" width="1000" height="500">
+        </a></li>
+    <li>Thus we can see the image above
+    <a href="https://github.com/Kamaltejveerapaneni/Web-Cloud-Mobile/blob/master/ICP%201/Documentation/6.png">
+    <img src="https://raw.githubusercontent.com/Kamaltejveerapaneni/Web-Cloud-Mobile/master/ICP%201/Documentation/6.png" alt="Step 6" width="1000" height="500">
+          </a>
+  </li><br>
+  </ol><br>
+
+
+<span>
+<p>Here is the you tube video</p>
+  </span>
+  <span> Webstorm </span><br>
+<li><iframe width="420" height="345"    src="https://www.youtube.com/embed/zTiN0KLfpYs"></li>
+</iframe>
+
+
+</div>
 
 </body>
 </html>
