@@ -1,0 +1,14 @@
+From there we will be directed to a repository page where we have to give a name to our repository
+and description if available
+
+Then we can either select our repositry to be either private or public and select radio box below(Initialize....)
+
+Here i choose it to be public so any one with a link can view the repository
+
+As shown below this is how we can create a new repositry succesfully
+
+Now after a repository is created remotely we have to Clone Gitrepository to your local storage
+
+Use Gitto add file into local,Modify files and use Gitto commit  change
+
+Use Gitto push  the commit  to remote,Use Gitto pull (sync)  content with remote
