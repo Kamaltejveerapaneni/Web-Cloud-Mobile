@@ -26,6 +26,7 @@ app.post('/create', function (req, res) {
             res.end();
         });
     });
+
 });
 
 app.get('/get', function (req, res) {
@@ -76,28 +77,22 @@ app.get('/delete/:toBeDeleted_id', function (req, res) {
 app.get('/update/:toBeUpdated_id', function (req, res) {
     //3.connect to MongoDB. Handle the error and write the logic for updating the selected field
     MongoClient.connect(url, function(err, db) {
-        if (err) {
+        if(err)
+        {
             res.write("Failed, Error while connecting to Database");
             res.end();
         }
-        var p = {};
-        p._id = new ObjectID(req.params.toBeUpdated_id);
+        var oldData = {};
+        oldData._id = new ObjectID(req.params.toBeUpdated_id);
         var newData={};
         newData.ISBN = req.query.ISBN;
         newData.bookName = req.query.bookName;
         newData.authorName = req.query.authorName;
-
-        db.collection('books').updateOne(p,{'$set': newData },function(err,result){
-            if(err)
-            {
-                res.write("Registration Failed, Error While Registering");
-                res.end();
-            }
-            console.log("Updated a document into the books collection.");
-
-        });
+        updateRecord(db,oldData,newData,  function() {
+            res.write("Deleted Successfully");
+            res.end();
+        })
     });
-
 });
 
 var insertDocument = function(db, data, callback) {
@@ -124,14 +119,16 @@ var deleteDocument = function(db, data, callback) {
     });
 };
 
-var updateDocument = function(db, data, callback) {
-    db.collection('books').updateOne( data, function(err, result) {
+var updateRecord = function(db,old_data,new_data,callback) {
+    //var oldValues=
+    db.collection('icp7').updateOne(old_data,{$set:new_data},function(err, result) {
         if(err)
         {
-            res.write("Registration Failed, Error While Registering");
+            res.write("Failed to update the record in collection");
             res.end();
         }
-        console.log("updated a document from the books collection.");
+
+        console.log("One record Updated successfully.");
         callback();
     });
 };
