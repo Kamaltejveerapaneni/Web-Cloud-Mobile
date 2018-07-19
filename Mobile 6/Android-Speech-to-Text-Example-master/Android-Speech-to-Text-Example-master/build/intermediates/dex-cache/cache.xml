@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Puchu\.android\build-cache\ad26e83a6f31d943f79758a01c380a073b8f5f04\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Puchu\Downloads\Android-Speech-to-Text-Example-master\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\classes_6a526bcf9259e01e01e8f5d2851f739b24f00c68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Puchu\.android\build-cache\9903612f3913ddd6ad2a943d958d4cbc180eb16e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Puchu\Downloads\Android-Speech-to-Text-Example-master\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\classes_97635af57f0270f9759959ace44f4c0c09013981.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Puchu\.android\build-cache\234974a6ffeae27e6553bd7e92e5d2b6ea399b30\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Puchu\Downloads\Android-Speech-to-Text-Example-master\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\classes_3556d4a2011b02a948a65ed887b19c23b89662dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Puchu\.android\build-cache\258c06081815901fbb424e3f690b8df31345a94e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Puchu\Downloads\Android-Speech-to-Text-Example-master\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\classes_f7e0465a30bf3ea43541283b396c14af799a05a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Puchu\.android\build-cache\ac3971bd660201f13d904aae559655e805ad696b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Puchu\Downloads\Android-Speech-to-Text-Example-master\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\classes_e8998bc6b6fea16e132692d390a741742ac1aea4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Puchu\.android\build-cache\b632b6e9f9af473181815c5d1f694e29f9f6e442\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Puchu\Downloads\Android-Speech-to-Text-Example-master\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\classes_e18040a11deb8c551454fdcd2c4bfee2c8b7913d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Puchu\.android\build-cache\e6eb7139ebf25146b95c562ceb8c590046cfb160\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Puchu\Downloads\Android-Speech-to-Text-Example-master\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\classes_805cce105c1d38cbe656eb6a548d3857280b5d5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Puchu\.android\build-cache\5074e7d0b01794efadfd0cd6311216e08a285dff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Puchu\Downloads\Android-Speech-to-Text-Example-master\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\classes_8ada56c024264eb0a6523c4fab9d36107604ea20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Puchu\.android\build-cache\572a7e7a414513dc3f962710f8ec1ae37290a331\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Puchu\Downloads\Android-Speech-to-Text-Example-master\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\classes_b9f690c43f1a05363d246e8c5bab14abbbb04953.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Puchu\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\Puchu\Downloads\Android-Speech-to-Text-Example-master\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_ab301214290b52e4d7f85c2bef0f1551b543ebbc.jar" />
+    </item>
+
+</items>
